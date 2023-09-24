@@ -6,4 +6,6 @@ You need to download the trained classifier XML file (haarcascade_frontalface_de
 
 
 Result :
+
+
 ![image](https://github.com/CherifAmine/Face-Detection/assets/45165289/bcb9bb48-2f97-4039-980d-f45829cc5167)
